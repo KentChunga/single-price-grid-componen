@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.github.com/KentCP/single-price-grid-component](https://www.github.com/KentCP/single-price-grid-component)
+- Solution URL: [https://www.github.com/KentCP/single-price-grid-componen](https://www.github.com/KentCP/single-price-grid-componen)
 - Live Site URL: [https://62a9ebf6b4f70e34bf810f99--graceful-elf-3dddd5.netlify.app/](https://62a9ebf6b4f70e34bf810f99--graceful-elf-3dddd5.netlify.app/)
 
 ## My process
