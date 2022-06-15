@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/KentCP/Single-price-grid-component](https://www.github.com/KentCP/single-price-grid-component)
-- Live Site URL: [https://kentcp.github.io/Single-price-grid-component/](https://kentcp.github.io/Single-price-grid-component/)
+- Solution URL: [https://www.github.com/KentCP/single-price-grid-component](https://www.github.com/KentCP/single-price-grid-component)
+- Live Site URL: [https://kentcp.github.io/single-price-grid-componen/](https://kentcp.github.io/single-price-grid-componen/)
 
 ## My process
 
