@@ -52,14 +52,13 @@ Users should be able to:
 
 Working through this project helped me to practice my HTML and CSS skills that  i learned after watching a couple of web development tutorials as well as reading books. 
 
-This project also helped me in develping skills  to build/develop a website from a design. And am so glad that after all the strugle of getting  styles like `font-size`, `padding`, `margin` `etc`, from the design by just looking through the designs, i managed to  build and complete this single price grid component challenge  which is just as close as to the the designs provided in this challenge.
+This project also helped me in developing skills  to build/develop a website from a design. And I'm so glad that after all the strugle of getting  styles like `font-size`, `padding`, `margin` `etc`, from the design by just looking through the designs, i managed to  build and complete this single price grid component challenge  which is just as close as to the the designs provided in this challenge.
 
 ```html
 <p>Coding is fun :)</p>
 ```
 
-### Continued development
-[Go to top](#table-of-contents)
+
 
 ### Useful resources
 
